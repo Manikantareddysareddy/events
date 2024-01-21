@@ -1,0 +1,49 @@
+.Registration-details {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.register-image {
+  height: 55vh;
+  width: 30vw;
+}
+.register-para {
+  color: #323f4b;
+  font-family: 'Roboto';
+  font-size: 17px;
+  text-align: center;
+  width: 80%;
+}
+.button {
+  background-color: #0967d2;
+  color: #f8fafc;
+  font-family: 'Roboto';
+  font-size: 17px;
+  padding: 10px;
+  border: 0 none;
+  border-radius: 5px;
+}
+.register-details {
+  padding-top: 150px;
+}
+.registered-details {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.registered-image {
+  height: 20vh;
+  width: 10vw;
+}
+.registered-heading {
+  color: #323f4b;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 20px;
+}
+.closed-registration {
+  height: 50vh;
+  width: 30vw;
+}
